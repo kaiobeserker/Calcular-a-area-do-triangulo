@@ -1,0 +1,11 @@
+C:\Users\kaio.ofigueiredo\source\repos\Calcular a area do triangulo\Calcular a area do triangulo\bin\Debug\Calcular a area do triangulo.exe.config
+C:\Users\kaio.ofigueiredo\source\repos\Calcular a area do triangulo\Calcular a area do triangulo\bin\Debug\Calcular a area do triangulo.exe
+C:\Users\kaio.ofigueiredo\source\repos\Calcular a area do triangulo\Calcular a area do triangulo\bin\Debug\Calcular a area do triangulo.pdb
+C:\Users\kaio.ofigueiredo\source\repos\Calcular a area do triangulo\Calcular a area do triangulo\obj\Debug\Calcular a area do triangulo.csproj.AssemblyReference.cache
+C:\Users\kaio.ofigueiredo\source\repos\Calcular a area do triangulo\Calcular a area do triangulo\obj\Debug\Calcular a area do triangulo.csproj.SuggestedBindingRedirects.cache
+C:\Users\kaio.ofigueiredo\source\repos\Calcular a area do triangulo\Calcular a area do triangulo\obj\Debug\Calcular_a_area_do_triangulo.Form1.resources
+C:\Users\kaio.ofigueiredo\source\repos\Calcular a area do triangulo\Calcular a area do triangulo\obj\Debug\Calcular_a_area_do_triangulo.Properties.Resources.resources
+C:\Users\kaio.ofigueiredo\source\repos\Calcular a area do triangulo\Calcular a area do triangulo\obj\Debug\Calcular a area do triangulo.csproj.GenerateResource.cache
+C:\Users\kaio.ofigueiredo\source\repos\Calcular a area do triangulo\Calcular a area do triangulo\obj\Debug\Calcular a area do triangulo.csproj.CoreCompileInputs.cache
+C:\Users\kaio.ofigueiredo\source\repos\Calcular a area do triangulo\Calcular a area do triangulo\obj\Debug\Calcular a area do triangulo.exe
+C:\Users\kaio.ofigueiredo\source\repos\Calcular a area do triangulo\Calcular a area do triangulo\obj\Debug\Calcular a area do triangulo.pdb
